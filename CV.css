@@ -2,7 +2,7 @@ body
 {
 	margin: 0;
 	font-family: calibri;
-	background: #f1f1f1 ;
+	background: #f1f1f1;
 }
 
 .main
@@ -92,7 +92,7 @@ body
 
 .footer
 {
-	background: #581845 ;
+	background: teal;
 	color:White;
 	text-align: center;
 	padding: 2%;
@@ -119,7 +119,7 @@ body
 
 .fa
 {
-	color:#3B0B0B;
+	color:teal;
 }
 h1,h2
 {
